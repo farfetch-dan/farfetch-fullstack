@@ -15,6 +15,6 @@ Bonus points for:
 
 ## Part 2
 
-Using the same endpoint please create a JS application which pulls in the first 10 products and identifies the prominent colour of each item of clothing. The output of this should be a JSON file which contains and array of products listing the product name, description, link, image path and colour.
+Using the same endpoint please create a JS application which pulls in the first 10 products and identifies the prominent colour of each item of clothing. The output of this should be a JSON file which contains and array of products listing the product name, designer, description, link, image path and colour.
 
 Please create your own repo with your submission and provide basic documentation for running builds etc.
